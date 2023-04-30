@@ -30,5 +30,14 @@ beamligh-bootcamp/Batch-One repository.
 10. What are some tools used for continious integration?
 
 
+# Module - Three
 
+1. What is Github? Why is it used?
+2. What does the git clone command do?
+3. What does the git status command do?
+4. What does the git add command do?
+5. What does the git commit & git push command do?
+6. What does git pull command do?
+7. What is merge conflict? How does it occur & how can we avoid it?
+8. Go to this [link](https://education.github.com/git-cheat-sheet-education.pdf). Pick four commands from here which we did not cover in the class and write a short description of what they do? If you can do more that is even more awesome.
 
